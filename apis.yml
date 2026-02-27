@@ -1,0 +1,84 @@
+name: Infinity Platform
+description: A comprehensive platform providing advanced capabilities for data management, analytics, and integration services
+image: https://example.com/infinity-platform-logo.png
+url: https://infinityplatform.example.com
+created: '2024'
+modified: '2024'
+apis:
+- name: Infinity Core API
+  description: Core API for managing platform resources, users, and configurations
+  image: https://example.com/core-api-icon.png
+  humanURL: https://infinityplatform.example.com/core
+  baseURL: https://api.infinityplatform.example.com/v1
+  tags:
+  - Core
+  - Management
+  - Configuration
+  properties:
+  - type: Documentation
+    url: https://docs.infinityplatform.example.com/core-api
+  - type: OpenAPI
+    url: https://api.infinityplatform.example.com/v1/openapi.json
+  - type: Authentication
+    url: https://docs.infinityplatform.example.com/auth
+  - type: Pricing
+    url: https://infinityplatform.example.com/pricing
+  - type: Status
+    url: https://status.infinityplatform.example.com
+- name: Infinity Data API
+  description: API for data ingestion, transformation, and retrieval operations
+  image: https://example.com/data-api-icon.png
+  humanURL: https://infinityplatform.example.com/data
+  baseURL: https://api.infinityplatform.example.com/v1/data
+  tags:
+  - Data
+  - Analytics
+  - ETL
+  properties:
+  - type: Documentation
+    url: https://docs.infinityplatform.example.com/data-api
+  - type: OpenAPI
+    url: https://api.infinityplatform.example.com/v1/data/openapi.json
+  - type: SDK
+    url: https://github.com/infinityplatform/data-sdk
+- name: Infinity Analytics API
+  description: Advanced analytics and reporting capabilities
+  image: https://example.com/analytics-api-icon.png
+  humanURL: https://infinityplatform.example.com/analytics
+  baseURL: https://api.infinityplatform.example.com/v1/analytics
+  tags:
+  - Analytics
+  - Reporting
+  - Insights
+  properties:
+  - type: Documentation
+    url: https://docs.infinityplatform.example.com/analytics-api
+  - type: OpenAPI
+    url: https://api.infinityplatform.example.com/v1/analytics/openapi.json
+  - type: Postman Collection
+    url: https://www.postman.com/infinityplatform/analytics
+common:
+- type: Portal
+  url: https://portal.infinityplatform.example.com
+- type: Support
+  url: https://support.infinityplatform.example.com
+- type: Terms of Service
+  url: https://infinityplatform.example.com/terms
+- type: Privacy Policy
+  url: https://infinityplatform.example.com/privacy
+- type: Blog
+  url: https://blog.infinityplatform.example.com
+- type: Change Log
+  url: https://infinityplatform.example.com/changelog
+- type: Contact
+  url: https://infinityplatform.example.com/contact
+maintainers:
+- FN: Infinity Platform Team
+  email: api@infinityplatform.example.com
+  url: https://infinityplatform.example.com/about
+tags:
+- APIs
+- Platform
+- Integration
+- Analytics
+- Data Management
