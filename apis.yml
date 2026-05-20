@@ -17,6 +17,9 @@ url: >-
 created: '2024-01-01'
 modified: '2026-04-28'
 specificationVersion: '0.20'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/infinity-platform
 apis: []
 maintainers:
   - FN: Kin Lane
