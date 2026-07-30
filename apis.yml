@@ -6,7 +6,18 @@ description: >-
   services. This index is a placeholder for cataloging APIs from vendors
   that operate Infinity-branded platforms.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/infinity-platform.png
 tags:
   - Analytics
   - Data Management
